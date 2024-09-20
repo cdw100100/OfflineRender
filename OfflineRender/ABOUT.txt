@@ -1,0 +1,20 @@
+Website Downloader Script
+
+This script is designed to download an entire website, including its HTML pages and associated assets 
+such as images, CSS files, and other resources. Using a user-friendly graphical interface built with 
+Tkinter, users can input a URL and initiate the download process.
+
+Key Features:
+- Recursive Downloading: The script fetches the main page and recursively downloads linked pages 
+  within the same domain.
+- Asset Management: All assets (images, CSS files) are downloaded and organized into a dedicated 
+  "assets" folder to maintain a clean directory structure.
+- Multi-threading Support: By utilizing a ThreadPoolExecutor, the script efficiently downloads multiple 
+  pages and assets simultaneously, speeding up the overall process.
+- Download Tracking: The script keeps track of visited pages and downloaded assets to avoid redundancy, 
+  ensuring each resource is only downloaded once.
+- Progress Logging: Users receive real-time feedback on the download progress through a scrolling text 
+  box, displaying messages for successfully downloaded pages and any errors encountered.
+
+This script serves as a powerful tool for anyone looking to archive websites or gather content for 
+offline viewing.

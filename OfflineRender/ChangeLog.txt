@@ -1,0 +1,13 @@
+Changelog
+
+Version 1.0
+- Initial creation of the Website Downloader Script.
+
+Version 1.1
+- Added asset organization into dedicated folders.
+- Improved error handling for downloads.
+- Implemented checks to avoid duplicate downloads.
+
+Version 1.2
+- Enhanced user interface for better usability.
+- Added download progress indication.

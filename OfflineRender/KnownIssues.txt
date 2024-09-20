@@ -1,0 +1,5 @@
+Known Issues
+
+- Some websites may block automated downloads, leading to incomplete downloads.
+- Downloading very large websites may cause performance issues.
+- The script may not handle all asset types or link structures.

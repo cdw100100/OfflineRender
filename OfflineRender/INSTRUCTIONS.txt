@@ -1,0 +1,10 @@
+Usage Instructions
+
+To run the Website Downloader Script:
+1. Ensure you have Python 3.6 or later installed.
+2. Install required libraries if not already installed:
+   - pip install requests beautifulsoup4
+3. Download the script file and navigate to its directory in the command line.
+4. Run the script using:
+   python website_downloader.py
+5. Enter the desired website URL in the GUI and click "Download Website."

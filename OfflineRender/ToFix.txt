@@ -1,0 +1,31 @@
+To Fix:
+
+1. Asset Overwriting:
+   - Ensure that downloaded assets (images, CSS files) do not overwrite each other by saving them 
+     with unique names or in dedicated folders.
+
+2. Error Handling:
+   - Improve error handling during downloads to account for missing or inaccessible resources, 
+     ensuring the script continues running without crashing.
+
+3. Download Progress Indication:
+   - Add a progress bar or percentage indicator to provide users with a visual representation of 
+     the download status.
+
+4. UI Improvements:
+   - Enhance the user interface for better usability, such as adding a cancel button or status messages 
+     to inform users about the current operation.
+
+5. Duplicate Downloads:
+   - Implement more robust checks to avoid downloading the same asset or page multiple times, 
+     especially when navigating nested links.
+
+6. Thread Management:
+   - Optimize thread management to prevent the application from freezing or becoming unresponsive 
+     during the download process.
+
+7. Documentation:
+   - Add comments and documentation within the code to clarify the functionality of key sections 
+     for future maintenance and updates.
+
+8. No File Done downloading notfication. (for all files as a whole)

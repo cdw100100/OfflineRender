@@ -1,0 +1,42 @@
+PC Requirements to Run the Website Downloader Script
+
+Minimum System Requirements:
+1. Operating System:
+   - Windows 10 or later
+   - Linux or macOS (with Python support)
+
+2. Processor:
+   - 1 GHz or faster (dual-core recommended)
+
+3. RAM:
+   - 2 GB or more
+
+4. Storage:
+   - At least 100 MB of free disk space for the script and downloaded content
+
+5. Python:
+   - Python 3.6 or later installed
+   - Required libraries: `requests`, `beautifulsoup4`, `tkinter` (usually included with Python)
+
+6. Internet Connection:
+   - A stable internet connection to download web content
+
+Recommended System Requirements:
+1. Operating System:
+   - Windows 10 or later (64-bit preferred)
+
+2. Processor:
+   - Dual-core 2 GHz or faster
+
+3. RAM:
+   - 4 GB or more for smoother multitasking
+
+4. Storage:
+   - SSD for faster read/write speeds (500 MB or more recommended)
+
+5. Python:
+   - Latest version of Python 3.x
+   - Up-to-date libraries to ensure compatibility and performance
+
+6. Internet Connection:
+   - High-speed internet connection for efficient downloads
